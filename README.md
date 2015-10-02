@@ -13,10 +13,7 @@ NOTE: This extension is not affiliated with Ansible, Inc. in any way.
 
 Installation
 ------------
-
-Download the release version from the 
-[Chrome store](https://chrome.google.com/webstore/detail/ansible-vault-decryptor/mjebkhaiooleeenllmhgnijapnmbcpfl?hl=en-US&gl=US), 
-or clone this repo and enable developer mode in Chrome to load as an unpacked extension.
+Clone this repository and install as unpacked extension.
 
 
 License
