@@ -9,6 +9,7 @@ are cached only in-memory (ie. they'll have to be re-entered after restarting Ch
 are not accesible to any web resources (including github javascript).
 
 NOTE: This extension is not affiliated with Ansible, Inc. in any way.
+NOTE: This is modded version from gwatts's one. Only works in dwango environment.
 
 
 Installation
