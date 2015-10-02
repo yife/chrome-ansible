@@ -8,7 +8,7 @@ All decryption is done in-browser (nothing is transmitted over the network) and 
 are cached only in-memory (ie. they'll have to be re-entered after restarting Chrome) and
 are not accesible to any web resources (including github javascript).
 
-NOTE: This extension is not affiliated with Ansible, Inc. in any way.
+NOTE: This extension is not affiliated with Ansible, Inc. in any way.  
 NOTE: This is modded version from gwatts's one. Only works in dwango environment.
 
 
